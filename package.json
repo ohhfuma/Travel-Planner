@@ -1,0 +1,33 @@
+{
+  "name": "travel-planner",
+  "version": "1.0.0",
+  "description": "Web app for planning trips with budget calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohhfuma/Travel-Planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ohhfuma/Travel-Planner/issues"
+  },
+  "homepage": "https://github.com/ohhfuma/Travel-Planner#readme",
+  "dependencies": {
+    "lucide-react": "^1.52.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.2"
+  }
+}
